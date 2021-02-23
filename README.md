@@ -20,7 +20,7 @@ python competition.py \
 
 Solarized dark |  Solarized Ocean  |  Solarized Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="200" height="300"> | <img src= "./figures/turn_left.png" width="200" height="300">
+<img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="200" height="300"> | <img src= "./figures/turn_right.png" width="200" height="300">
 
 
 

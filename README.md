@@ -29,5 +29,5 @@ Turning left| Going straight | Turning right
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="250" height="250"> | <img src= "./figures/turn_right.png" width="200" height="300">
 
-The sets of transformations e.g. "go straight 10 meters", "turn left 30 degrees", "turn right 50 degrees" are generated using the Markov chain with 3 corresponding states in module "road_gen". The road is generated after executing the transformations in the module "car_road".  
+The sets of transformations e.g. "go straight 10 meters", "turn left 30 degrees", "turn right 50 degrees" are generated using the Markov chain with 3 corresponding states in module [road_gen](https://github.com/dgumenyuk/sbst2021_cps_comp/blob/main/swat_gen/road_gen.py). The road is generated after executing the transformations in the module [car_road](https://github.com/dgumenyuk/sbst2021_cps_comp/blob/main/swat_gen/car_road.py).  
 

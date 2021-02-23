@@ -15,10 +15,10 @@ python competition.py \
         --module-name  swat_gen.swat_generator \
         --class-name SwatTestGenerator
 ``` 
-## SWAT tool principle of ##
-
-
-Solarized dark |  Solarized Ocean  |  Solarized Ocean
+## SWAT tool principle of opereration##
+The output of the tool is a set of points defined in a two-dimensional squared map with a predefined size.
+We define the points by applying affine transformations to a 
+Turning left| Going straight | Turning right
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="250" height="250"> | <img src= "./figures/turn_right.png" width="200" height="300">
 

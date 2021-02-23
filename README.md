@@ -18,8 +18,11 @@ python competition.py \
 ## SWAT tool principle of ##
 Turning left to  
 <img src= "./figures/turn_left.png" width="200" height="300">
-Turning right
+
 <img src= "./figures/turn_right.png" width="200" height="300">
-Going straight
+
 <img src= "./figures/straight.png" width="200" height="300">
 
+Turning right
+
+Going straight

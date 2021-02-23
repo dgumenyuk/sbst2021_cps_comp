@@ -17,4 +17,14 @@ python competition.py \
 ``` 
 ## SWAT tool principle of ##
 
-![Sample Road caption="test"  | height = 100px](./figures/turn_left.png  "Sample Road")
+
+Solarized dark |  Solarized Ocean  |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="250" height="250"> | <img src= "./figures/turn_right.png" width="200" height="300">
+
+
+
+
+Turning right
+
+Going straight

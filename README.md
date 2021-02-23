@@ -17,4 +17,4 @@ python competition.py \
 ``` 
 ## SWAT tool principle of ##
 
-![Sample Road caption="test"](./figures/turn_left.png "Sample Road")
+![Sample Road caption="test"  | height = 100px](./figures/turn_left.png  "Sample Road")

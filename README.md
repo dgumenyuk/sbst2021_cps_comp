@@ -16,10 +16,14 @@ python competition.py \
         --class-name SwatTestGenerator
 ``` 
 ## SWAT tool principle of ##
-Turning left to  
-<img src= "./figures/turn_left.png" width="200" height="300">
 
-<img src= "./figures/turn_right.png" width="200" height="300">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]<img src= "./figures/turn_left.png" width="200" height="300">|  ![]<img src= "./figures/turn_right.png" width="200" height="300">
+
+
+
+
 
 <img src= "./figures/straight.png" width="200" height="300">
 

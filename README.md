@@ -19,10 +19,9 @@ python competition.py \
 The output of the tool is a set of points defined in a two-dimensional squared map with a predefined size.
 We define the points by applying affine transformations to a vector, whose length corresponds to a road lane width.
 We use three types of transformations:
-
-*turn left by n degrees
-*turn right by n degrees
-*go straight n meters
+* turn left by n degrees
+* turn right by n degrees
+* go straight n meters
 
 Turning left| Going straight | Turning right
 :-------------------------:|:-------------------------:|:-------------------------:

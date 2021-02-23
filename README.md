@@ -31,3 +31,4 @@ Turning left| Going straight | Turning right
 
 The sets of transformations e.g. "go straight 10 meters", "turn left 30 degrees", "turn right 50 degrees" are generated using the Markov chain with 3 corresponding states in module [road_gen](https://github.com/dgumenyuk/sbst2021_cps_comp/blob/main/swat_gen/road_gen.py). The road is generated after executing the transformations in the module [car_road](https://github.com/dgumenyuk/sbst2021_cps_comp/blob/main/swat_gen/car_road.py).  
 
+In future work, we plan to optimize the Markov chain generated test case with an evolutionary search algorithm. To increae the fault revealing power of the test cases, one of the fitness functions will evaluate the difference between expected and simulated behaviour of car model on the generated roads.

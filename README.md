@@ -15,9 +15,15 @@ python competition.py \
         --module-name  swat_gen.swat_generator \
         --class-name SwatTestGenerator
 ``` 
-## SWAT tool principle of opereration##
+## SWAT tool principle of opereration
 The output of the tool is a set of points defined in a two-dimensional squared map with a predefined size.
-We define the points by applying affine transformations to a 
+We define the points by applying affine transformations to a vector, whose length corresponds to a road lane width.
+We use three types of transformations:
+
+*turn left by n degrees
+*turn right by n degrees
+*go straight n meters
+
 Turning left| Going straight | Turning right
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src= "./figures/turn_left.png" width="200" height="300">  | <img src= "./figures/straight.png" width="250" height="250"> | <img src= "./figures/turn_right.png" width="200" height="300">
